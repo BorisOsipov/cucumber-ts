@@ -1,0 +1,5 @@
+src/features/step_definitions/*.d.ts
+src/features/step_definitions/*.js
+node_modules/
+.idea/*
+!.idea/runConfigurations/
